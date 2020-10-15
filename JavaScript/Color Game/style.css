@@ -6,6 +6,10 @@ h1 {
   color: #FFF;
 }
 
+span {
+  color: #FFF;
+}
+
 #container {
   max-width: 600px;
   margin: 0 auto;
